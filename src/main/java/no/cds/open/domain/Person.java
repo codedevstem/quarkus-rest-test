@@ -1,4 +1,4 @@
-package no.cds.open;
+package no.cds.open.domain;
 
 import io.quarkus.hibernate.orm.panache.PanacheEntity;
 
